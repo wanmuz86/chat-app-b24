@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746434666633",
+    "project_id": "chat-app-b24",
+    "storage_bucket": "chat-app-b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746434666633:android:ac1222dc1069d790df2658",
+        "android_client_info": {
+          "package_name": "my.com.anak2u.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746434666633-vsf5oi4jld7h4kqn9kuqoab0k483i1tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeXjWs8d1k2m8TuwlsRXDwvfvAk_EG7Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746434666633-vsf5oi4jld7h4kqn9kuqoab0k483i1tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
